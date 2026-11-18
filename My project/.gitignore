@@ -12,7 +12,8 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/UserSettings/
 *.log
 
 # Memory Profiler generated files
